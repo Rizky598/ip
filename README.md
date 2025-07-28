@@ -15,8 +15,8 @@ Tools ini adalah script JavaScript yang dapat menampilkan informasi geolokasi (w
 
 3.  **Clone Repositori**: Clone repositori tools ini ke perangkat Anda:
     ```bash
-    git clone https://github.com/your-repo/website-geo-tool.git
-    cd website-geo-tool
+    git clone https://github.com/Rizky598/ip.git
+    cd ip
     ```
     *(Catatan: Ganti `https://github.com/your-repo/website-geo-tool.git` dengan URL repositori yang sebenarnya jika Anda mengunggahnya ke GitHub. Untuk saat ini, Anda bisa mengunduh file secara manual atau menyalinnya.)*
 
