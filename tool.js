@@ -3,7 +3,7 @@ const { URL } = require("url");
 const readline = require("readline");
 const fs = require("fs");
 const whois = require("whois");
-const dns = require("dns-lookup-promises");
+const dns = require("dns/promises");
 const cheerio = require("cheerio");
 
 const rl = readline.createInterface({
@@ -14,7 +14,7 @@ const rl = readline.createInterface({
 const asciiArt = `
 ╭━𓊈 𝐑𝐈𝐙𝐑𝐂𝐇 𝐓𝐎𝐎𝐋𝐒 𓊉━═╣
 ║ʙᴏᴛ ɴᴀᴍᴇ   : ⚙️ 𝐑𝐢𝐳𝐤𝐲-𝐀𝐢 ⚙️
-┃ᴠᴇʀꜱɪᴏɴ    : 3.0 (Supercharged)
+┃ᴠᴇʀꜱɪᴏɴ    : 1.0 (Supercharged)
 ║ᴀᴜᴛʜᴏʀ     : 𝐑𝐢𝐳𝐤𝐲 𝐜𝐲𝐛𝐞𝐫
 ╰━━━━━━━━━━━━━━━━━━━━━━━═╣
 
